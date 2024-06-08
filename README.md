@@ -72,4 +72,4 @@ http://localhost:8080/h2-console
 - Gabriel Penna de Lima - rm94841@fiap.com.br
 - Vinicius dos Santos Amaral - rm96108@fiap.com.br
 - Vinicios Romano Araujo - rm93018@fiap.com.br
-- Dayana Silva Santana - rm96067@@fiap.com.br
+- Dayana Silva Santana - rm96067@fiap.com.br
